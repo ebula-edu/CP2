@@ -2,9 +2,9 @@
 
 ## Group 1 | Activity 1
 
-* 📘 [Lesson 01 - JavaScript Core Concepts](lesson/LESSON01.md)
-* 📗 [Lesson 02 - DBMS and OOP with Databases](lesson/LESSON02.md)
-* 📗 [HOW TO APPLY Lesson 1 to Lesson 2](lesson/HOW.md)
+* 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
+* 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
+* 📗 [HOW TO APPLY Lesson 1 to Lesson 2](lessons/HOW.md)
 
 ---
 
