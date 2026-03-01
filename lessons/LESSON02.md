@@ -130,11 +130,3 @@ console.log(students);
 ```
 
 ------------------------------------------------------------------------
-
-# LESSON 02 SUMMARY
-
--   DBMS manages structured data.
--   SQL performs CRUD operations.
--   Inheritance can model database relationships.
--   Polymorphism abstracts database behavior.
--   JavaScript can connect to databases using Node.js.
