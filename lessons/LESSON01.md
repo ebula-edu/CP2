@@ -143,10 +143,3 @@ document.querySelector("#btn").addEventListener("click", function() {
 ```
 
 ------------------------------------------------------------------------
-
-# LESSON 01 SUMMARY
-
--   Inheritance promotes code reuse.
--   Polymorphism allows flexible behavior.
--   Error handling ensures robust systems.
--   DOM manipulation enables dynamic web pages.
