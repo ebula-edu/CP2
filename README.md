@@ -40,6 +40,6 @@
 
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ff053b/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
+  <img src="https://ghchart.rshah.org/ff5805/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
 </p>
 
