@@ -1,10 +1,8 @@
 const Database = require('better-sqlite3');
 const db = new Database('college.db');
 
-
 db.prepare(`
     CREATE TABLE IF NOT EXISTS students (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
         name TEXT,
         course TEXT,
         type TEXT,
