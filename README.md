@@ -38,3 +38,9 @@
   <img src="https://navotaspolytechniccollege.edu.ph/wp-content/themes/yootheme/cache/66/Favicon-66de9ae4.webp" alt="NPC Logo" width="50"/>  
 </p>
 
+---
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ff0557/EldrexDelosReyesBula" alt="Eldrex's GitHub Contributions" />
+</p>
+
