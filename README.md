@@ -1,6 +1,6 @@
 # Computer Programming 2
 
-## Group 1 | Activity 1
+## Group 1 | Activity
 
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
 * 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
