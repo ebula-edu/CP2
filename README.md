@@ -5,6 +5,7 @@
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
 * 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
 * 📗 [HOW TO APPLY Lesson 1 to Lesson 2](lessons/HOW.md)
+* 💻 [Activity 1](activity/group/app.js)
 
 ---
 
