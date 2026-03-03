@@ -4,7 +4,6 @@
 
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
 * 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
-* 📗 [HOW TO APPLY Lesson 1 to Lesson 2](lessons/HOW.md)
 * 💻 [ACTIVITY 1 - GROUP 1](activity/group01/app.js)
 
 ---
@@ -21,8 +20,9 @@
 
 ---
 
-## Team Members
+## Group 1 | Team Members
 
+* Alicante, Eulo
 * Albor, John Joshua
 * Bernales, Mark Angelo
 * Bula, Eldrex
