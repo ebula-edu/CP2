@@ -5,9 +5,7 @@
 </p>  
 
 <p align="left">
-  <a href="https://github.com/ebula-edu">
-    <img src="https://img.shields.io/badge/Repository%20Requests-Open-ff5805?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Repository%20Requests-Active-ff5805?style=for-the-badge" />
 </p>
 
 
