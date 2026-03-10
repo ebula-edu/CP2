@@ -4,8 +4,10 @@
        style="border-radius:50%; border:4px solid #ff0557; padding:6px; box-shadow:0px 10px 30px rgba(255,5,87,0.35);" />  
 </p>  
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=ebula-edu&label=Repository%20Requests&color=ff5805&style=for-the-badge" />  
+<p align="left">
+  <a href="https://github.com/ebula-edu">
+    <img src="https://img.shields.io/badge/Repository%20Requests-Open-ff5805?style=for-the-badge" />
+  </a>
 </p>
 
 
