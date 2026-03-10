@@ -1,35 +1,66 @@
-async function loadStudents(){
-    const res = await fetch("/students");
-    const data = await res.json();
-    let html = "";
-    data.forEach(s=>{
-        html += "<p>" + s.name + " | " + s.course + " | " + s.type + (s.company ? " | " + s.company : "") + 
-                " <button onclick='deleteStudent(" + s.id + ")'>Delete</button></p>";
-    });
-    document.getElementById("students").innerHTML = html;
+class Person{
+constructor(name){
+this.name = name;
 }
 
-async function addStudent(){
-    const name = document.getElementById("name").value;
-    const course = document.getElementById("course").value;
-    const company = document.getElementById("company").value;
-
-    await fetch("/add",{
-        method:"POST",
-        headers:{"Content-Type":"application/json"},
-        body: JSON.stringify({name, course, company})
-    });
-
-    document.getElementById("name").value = "";
-    document.getElementById("course").value = "";
-    document.getElementById("company").value = "";
-
-    loadStudents();
+display(){
+return this.name;
+}
 }
 
-async function deleteStudent(id){
-    await fetch("/delete/" + id, {method:"DELETE"});
-    loadStudents();
+class Student extends Person{
+constructor(name,course,year){
+super(name);
+this.course = course;
+this.year = year;
 }
 
-loadStudents();
+display(){
+return this.name + " - " + this.course + " - " + this.year;
+}
+}
+
+async function addRecord(){
+
+let name = document.getElementById("name").value;
+let course = document.getElementById("course").value;
+let year = document.getElementById("year").value;
+
+let student = new Student(name,course,year);
+
+await fetch("/add",{
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify(student)
+});
+
+alert("Record Added");
+
+showRecords();
+}
+
+async function showRecords(){
+
+let res = await fetch("/records");
+let data = await res.json();
+
+let html = "";
+
+data.forEach(r=>{
+html += "<tr>";
+html += "<td>"+r.name+"</td>";
+html += "<td>"+r.course+"</td>";
+html += "<td>"+r.year+"</td>";
+html += "<td><button onclick='deleteRecord("+r.id+")'>Delete</button></td>";
+html += "</tr>";
+});
+
+document.getElementById("tableBody").innerHTML = html;
+}
+
+async function deleteRecord(id){
+
+await fetch("/delete/"+id,{method:"DELETE"});
+
+showRecords();
+}
