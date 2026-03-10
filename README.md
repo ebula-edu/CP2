@@ -20,13 +20,10 @@
 
 ---
 
-## Group 1 | Team Members
+## Group Activity
 
-* Alicante, Eulo
-* Albor, John Joshua
-* Bernales, Mark Angelo
-* Bula, Eldrex
-* Esteban, Antoniño
+* 👥 [ACTIVITY 1 | GROUP 1 TEAM](activity/group01/Member.md)
+* 👥 [ACTIVITY 2 | GROUP 1 TEAM](activity/group02/Member.md)
 
 ---
 
