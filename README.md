@@ -1,8 +1,9 @@
-# Computer Programming 2
-
-<p align="center">  
+<p align="left">  
   <img src="https://komarev.com/ghpvc/?username=ebula-edu&color=ff5805&style=for-the-badge" />  
 </p>  
+
+
+# Computer Programming 2
 
 ## CP2 Lessons
 
