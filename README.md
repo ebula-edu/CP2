@@ -4,8 +4,7 @@
 
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
 * 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
-* 💻 [ACTIVITY 1 - GROUP 1](activity/group01/)
-* 💻 [ACTIVITY 2 - GROUP 2](activity/group02/)
+
 ---
 
 ## Topics Covered
@@ -25,10 +24,12 @@
 #### **College Student Management System**
 
 * 👥 [ACTIVITY 1 | GROUP 1 TEAM](activity/group01/Member.md)
+* 💻 [ACTIVITY 1 - GROUP 1](activity/group01/)
 
 #### **Student Course Management**
 
 * 👥 [ACTIVITY 2 | GROUP 1 TEAM](activity/group02/Member.md)
+* 💻 [ACTIVITY 2 - GROUP 1](activity/group02/)
 
 ---
 
