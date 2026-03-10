@@ -22,11 +22,11 @@
 
 ## Group Activity
 
-###**College Student Management System**
+### **College Student Management System**
 
 * 👥 [ACTIVITY 1 | GROUP 1 TEAM](activity/group01/Member.md)
 
-###**Student Course Management**
+### **Student Course Management**
 
 * 👥 [ACTIVITY 2 | GROUP 1 TEAM](activity/group02/Member.md)
 
