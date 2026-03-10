@@ -5,8 +5,8 @@
 </p>  
 
 <p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=ebula-edu&color=ff5805&style=for-the-badge" />  
-</p>  
+  <img src="https://komarev.com/ghpvc/?username=ebula-edu&label=Repository%20Requests&color=ff5805&style=for-the-badge" />  
+</p>
 
 
 # Computer Programming 2
