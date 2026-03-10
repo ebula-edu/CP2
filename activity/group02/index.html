@@ -1,25 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>College Student System</title>
+<title>Student Course Manager</title>
 <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <div class="container">
-    <h1>College Student System</h1>
 
-    <div class="form">
-        <input id="name" placeholder="Student Name">
-        <input id="course" placeholder="Course">
-        <input id="company" placeholder="Company (optional)">
-        <button onclick="addStudent()">Add Student</button>
-    </div>
+<h1>Student Course Manager</h1>
 
-    <h2>Student List</h2>
-    <div id="students" class="student-list"></div>
+<div class="form">
+<input id="name" placeholder="Student Name">
+<input id="course" placeholder="Course Name">
+<input id="year" placeholder="Year Level">
+
+<button onclick="addRecord()">Add Record</button>
+<button onclick="showRecords()">Show Records</button>
+</div>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Course</th>
+<th>Year</th>
+<th>Action</th>
+</tr>
+</thead>
+
+<tbody id="tableBody"></tbody>
+
+</table>
+
 </div>
 
 <script src="script.js"></script>
+
 </body>
 </html>
