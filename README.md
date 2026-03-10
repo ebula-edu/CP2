@@ -1,6 +1,6 @@
 # Computer Programming 2
 
-## Group 1 | Activity
+## CP2 Group | Activities
 
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
 * 📗 [Lesson 02 - DBMS and OOP with Databases](lessons/LESSON02.md)
@@ -23,6 +23,9 @@
 ## Group Activity
 
 * 👥 [ACTIVITY 1 | GROUP 1 TEAM](activity/group01/Member.md)
+
+* Student Course Management
+
 * 👥 [ACTIVITY 2 | GROUP 1 TEAM](activity/group02/Member.md)
 
 ---
