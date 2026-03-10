@@ -1,5 +1,9 @@
 # Computer Programming 2
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=ebula-edu&color=ff5805&style=for-the-badge" />  
+</p>  
+
 ## CP2 Lessons
 
 * 📘 [Lesson 01 - JavaScript Core Concepts](lessons/LESSON01.md)
