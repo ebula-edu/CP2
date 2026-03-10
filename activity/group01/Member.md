@@ -1,6 +1,6 @@
-## Activity 2 Members
+## Activity 1 Members
 
-**Date:** March 10, 2026
+**Date:** March 03, 2026
 
 ### Group Members
 1. **Eldrex Delos Reyes Bula**
